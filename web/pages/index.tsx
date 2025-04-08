@@ -60,7 +60,7 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-red-50 to-blue-50">
+    <div className="min-h-screen bg-gradient-to-br from-red-50 to-blue-50 relative">
       <Head>
         <title>Pokédex</title>
         <meta name="description" content="A complete Pokémon information database" />
@@ -124,6 +124,10 @@ export default function Home() {
           </button>
         </div>
       </main>
+      
+      <footer className="absolute bottom-4 right-4">
+        <p className="text-gray-700 font-mono text-sm">Made by Connor Whitlow</p>
+      </footer>
     </div>
   );
 }
