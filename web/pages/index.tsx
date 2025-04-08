@@ -125,7 +125,8 @@ export default function Home() {
         </div>
       </main>
       
-      <footer className="absolute bottom-4 right-4">
+
+      <footer className="absolute bottom-2 right-4">
         <p className="text-gray-700 font-mono text-sm">Made by Connor Whitlow</p>
       </footer>
     </div>
