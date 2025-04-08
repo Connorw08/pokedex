@@ -1,7 +1,6 @@
-# Project Title
+# Pokedex
 
-A brief description of what this project does or what it’s for.  
-(Replace this line with your actual project summary.)
+A comprehensive Pokémon encyclopedia that contains the 900+ pokemon that exist. 
 
 ## Getting Started
 
@@ -21,3 +20,17 @@ Make sure you have the following installed:
 ```bash
 git clone https://github.com/your-username/your-project.git
 cd your-project
+ ```
+
+2. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+### Running the Project
+
+To start the development server:
+
+```bash
+npm start
