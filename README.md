@@ -18,8 +18,8 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/your-username/your-project.git](https://github.com/Connorw08/pokedex)
+cd web
  ```
 
 2. Install dependencies:
